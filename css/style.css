@@ -65,7 +65,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: 'Merriweather', serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
@@ -91,5 +91,3 @@ img {
 footer {
   margin-top: 44px;
 }
-
-
